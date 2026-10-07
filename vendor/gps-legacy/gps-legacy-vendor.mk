@@ -38,7 +38,6 @@ PRODUCT_PACKAGES += \
     liblocationservice_glue \
     liblowi_client \
     liblowi_wifihal \
-    libminksocket \
     libqcc_file_agent \
     libqdma_file_agent \
     libslimclient \
